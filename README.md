@@ -1,5 +1,8 @@
 Hello There<img align="center" alt="Rafa-Js" height="30" width="35" src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif">   I'm Sinx :)
 
+My name is Gabriel, but you can call me 'Sinx'. I'm a System's Analyst with expertise in DataBase solutions.
+Here I want to share some studies and personal projects of mine.
+
 - 🔭 I’m currently working as DBA;
 - 🌱 I’m currently learning Python, Dart and Flutter;
 
@@ -21,7 +24,7 @@ Hello There<img align="center" alt="Rafa-Js" height="30" width="35" src="https:/
   <a href="https://www.linkedin.com/in/sinxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/sinxcode/sinxcode/blob/output/github/contribution-grid-snake.svg)
+
 
 
 
