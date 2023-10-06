@@ -7,7 +7,7 @@ I'm a System's Analyst with expertise in DataBase. Here I want to share some stu
 - 🌱 I’m currently learning Python, Dart and Flutter;
 
 <a href="https://www.linkedin.com/in/gabriel-brito-742b82202/">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=sinxcode&show_icons=true&card_width=200&theme=highcontrast" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sinxcode&show_icons=true&card_width=200&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinxcode&layout=compact&langs_count=8&card_width=313&theme=highcontrast" />
