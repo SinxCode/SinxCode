@@ -7,7 +7,7 @@ My name is Gabriel, but you can call me 'Sinx'. I'm a System's Analyst with expe
 - 🌱 I’m currently learning Python, Dart and Flutter;
 
 <a href="https://www.linkedin.com/in/gabriel-brito-742b82202/">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sinxcode&show_icons=true&card_width=200&theme=highcontrast" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sinxcode&show_icons=true&card_width=300&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinxcode&layout=compact&langs_count=8&card_width=313&theme=highcontrast" />
