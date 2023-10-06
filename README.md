@@ -21,6 +21,7 @@ Hello There<img align="center" alt="Rafa-Js" height="30" width="35" src="https:/
   <a href="https://www.linkedin.com/in/sinxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+![Snake animation](https://github.com/sinxcode/sinxcode/blob/output/github/contribution-grid-snake.svg)
 
 
 
