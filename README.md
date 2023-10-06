@@ -7,10 +7,10 @@ Here I want to share some studies and personal projects of mine.
 - 🌱 I’m currently learning Python, Dart and Flutter;
 
 <a href="https://www.linkedin.com/in/gabriel-brito-742b82202/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sinxcode&show_icons=true&card_width=230&theme=highcontrast" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sinxcode&show_icons=true&card_width=200&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinxcode&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinxcode&layout=compact&langs_count=8&card_width=313&theme=highcontrast" />
 </a>
 
 <div style="display: inline_block"><br>
