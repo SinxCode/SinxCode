@@ -3,7 +3,7 @@ Hello There<img align="center" alt="Rafa-Js" height="30" width="35" src="https:/
 My name is Gabriel, but you can call me 'Sinx'. I'm a System's Analyst with expertise in DataBase solutions. Here I want to share some studies and personal projects of mine.
 
 
-- 🔭 I’m currently working as DBA;
+- 🔭 I’m currently working as System's Analyst;
 - 🌱 I’m currently learning Python, Dart and Flutter;
 
 <a href="https://www.linkedin.com/in/gabriel-brito-742b82202/">
