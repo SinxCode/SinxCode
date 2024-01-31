@@ -1,6 +1,8 @@
 Hello There<img align="center" alt="Rafa-Js" height="30" width="35" src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif">
 
-My name is Gabriel, but you can call me 'Sinx'. I'm a System's Analyst with expertise in DataBase solutions. Here I want to share some studies and personal projects of mine.
+My name is Gabriel, but you can call me 'Sinx'. I'm a System's Analyst with expertise in DataBase solutions.
+I'm learning mobile coding with Flutter, and developing APIs with ASP.NET6.
+Here I want to share some studies and personal projects of mine.
 
 
 - 🔭 I’m currently working as System's Analyst;
