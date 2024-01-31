@@ -11,11 +11,11 @@ My name is Gabriel, but you can call me 'Sinx'. I'm a System's Analyst with expe
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxcode&theme=2077)
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="60" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">&nbsp&nbsp&nbsp  
-   <img align="center" alt="Rafa-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">&nbsp&nbsp&nbsp  
-      <img align="center" alt="Rafa-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">&nbsp&nbsp&nbsp   
-        <img align="center" alt="Rafa-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">&nbsp&nbsp&nbsp                     
+<div style="display: inline_block"><br> 
+    <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">&nbsp  
+       <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">&nbsp 
+         <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">&nbsp  
+          <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">&nbsp                     
 </div>
 <br>
 <div> 
