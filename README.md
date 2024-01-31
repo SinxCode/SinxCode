@@ -6,12 +6,10 @@ My name is Gabriel, but you can call me 'Sinx'. I'm a System's Analyst with expe
 - 🔭 I’m currently working as System's Analyst;
 - 🌱 I’m currently learning Python, Dart and Flutter;
 
-<a href="https://www.linkedin.com/in/gabriel-brito-742b82202/">
-  <img width=54% src="https://github-readme-stats.vercel.app/api?username=sinxcode&show_icons=true&card_width=300&theme=highcontrast" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinxcode&layout=compact&langs_count=8&card_width=313&theme=highcontrast" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinxcode&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinxcode&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxcode&theme=2077)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="60" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">&nbsp&nbsp&nbsp  
