@@ -12,10 +12,10 @@ My name is Gabriel, but you can call me 'Sinx'. I'm a System's Analyst with expe
 
 
 <div style="display: inline_block"><br> 
-    <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">&nbsp  
        <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">&nbsp 
          <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">&nbsp  
-          <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">&nbsp                     
+            <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">&nbsp  
+              <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">&nbsp                     
 </div>
 <br>
 <div> 
